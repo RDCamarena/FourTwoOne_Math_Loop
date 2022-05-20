@@ -1,0 +1,15 @@
+C:\Users\el_to\Desktop\FourTwoOne\FourTwoOne\FourTwoOne\bin\Debug\net6.0\FourTwoOne.exe
+C:\Users\el_to\Desktop\FourTwoOne\FourTwoOne\FourTwoOne\bin\Debug\net6.0\FourTwoOne.deps.json
+C:\Users\el_to\Desktop\FourTwoOne\FourTwoOne\FourTwoOne\bin\Debug\net6.0\FourTwoOne.runtimeconfig.json
+C:\Users\el_to\Desktop\FourTwoOne\FourTwoOne\FourTwoOne\bin\Debug\net6.0\FourTwoOne.dll
+C:\Users\el_to\Desktop\FourTwoOne\FourTwoOne\FourTwoOne\bin\Debug\net6.0\FourTwoOne.pdb
+C:\Users\el_to\Desktop\FourTwoOne\FourTwoOne\FourTwoOne\obj\Debug\net6.0\FourTwoOne.csproj.AssemblyReference.cache
+C:\Users\el_to\Desktop\FourTwoOne\FourTwoOne\FourTwoOne\obj\Debug\net6.0\FourTwoOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\el_to\Desktop\FourTwoOne\FourTwoOne\FourTwoOne\obj\Debug\net6.0\FourTwoOne.AssemblyInfoInputs.cache
+C:\Users\el_to\Desktop\FourTwoOne\FourTwoOne\FourTwoOne\obj\Debug\net6.0\FourTwoOne.AssemblyInfo.cs
+C:\Users\el_to\Desktop\FourTwoOne\FourTwoOne\FourTwoOne\obj\Debug\net6.0\FourTwoOne.csproj.CoreCompileInputs.cache
+C:\Users\el_to\Desktop\FourTwoOne\FourTwoOne\FourTwoOne\obj\Debug\net6.0\FourTwoOne.dll
+C:\Users\el_to\Desktop\FourTwoOne\FourTwoOne\FourTwoOne\obj\Debug\net6.0\refint\FourTwoOne.dll
+C:\Users\el_to\Desktop\FourTwoOne\FourTwoOne\FourTwoOne\obj\Debug\net6.0\FourTwoOne.pdb
+C:\Users\el_to\Desktop\FourTwoOne\FourTwoOne\FourTwoOne\obj\Debug\net6.0\FourTwoOne.genruntimeconfig.cache
+C:\Users\el_to\Desktop\FourTwoOne\FourTwoOne\FourTwoOne\obj\Debug\net6.0\ref\FourTwoOne.dll
